@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Record Source</string>
+
+    <string name="drawer_open">drawer opened</string>
+    <string name="drawer_close">drawer closed</string>
+
+    <string name="store_list_url">http://geoffledak.com/recordsource/stores.json</string>
+
+</resources>

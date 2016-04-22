@@ -1,0 +1,14 @@
+[
+  {
+    "id": "store_list",
+    "title": "Store List"
+  },
+  {
+    "id": "map",
+    "title": "Map"
+  },
+  {
+    "id": "charts",
+    "title": "Charts"
+  }
+]

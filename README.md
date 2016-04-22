@@ -1,5 +1,8 @@
 # record-source-sample
 
+A compiled APK of this app to install on an Android device can be downloaded here:
+http://geoffledak.com/recordsource/record-source-sample.apk
+
 A slideout navigation drawer can be opened with the icon in the upper left.
 
 The app's initial screen displays a scrollable list of record stores. Additional info about a store can be viewed by tapping on an item in the list. Tapping the store's phone number will kick off an intent to the devices phone dialer.

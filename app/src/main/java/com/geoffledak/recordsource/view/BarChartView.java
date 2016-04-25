@@ -34,13 +34,8 @@ public class BarChartView extends View {
 
         mLeftBarValue = "0";
         mRightBarValue = "0";
-    }
-
-
-    @Override
-    protected void onDraw(Canvas canvas) {
-
-        mLeftBarPaint.setStyle(Paint.Style.FILL);
+		
+		mLeftBarPaint.setStyle(Paint.Style.FILL);
         mLeftBarPaint.setAntiAlias(true);
 
         mRightBarPaint.setStyle(Paint.Style.FILL);
@@ -54,6 +49,11 @@ public class BarChartView extends View {
         mValueTextPaint.setColor(Color.parseColor("#FFFFFF"));
         mValueTextPaint.setTextSize((int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 16, getResources().getDisplayMetrics()));
         mValueTextPaint.setTypeface( Typeface.create(Typeface.DEFAULT, Typeface.BOLD) );
+    }
+
+
+    @Override
+    protected void onDraw(Canvas canvas) {
 
         float halfBarHeight = getMeasuredHeight() / (float)2.8;
         float horizontalCenter = getMeasuredWidth() / 2;

@@ -35,7 +35,7 @@ public class BarChartView extends View {
         mLeftBarValue = "0";
         mRightBarValue = "0";
 		
-		mLeftBarPaint.setStyle(Paint.Style.FILL);
+        mLeftBarPaint.setStyle(Paint.Style.FILL);
         mLeftBarPaint.setAntiAlias(true);
 
         mRightBarPaint.setStyle(Paint.Style.FILL);

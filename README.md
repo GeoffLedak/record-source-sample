@@ -13,3 +13,9 @@ The charts section has absolutely nothing to do with record stores, but it demon
 
 A network request is performed when the app is launched which populates the record store model. The JSON file that is downloaded is located at:
 http://geoffledak.com/recordsource/stores.json
+
+### Screenshots
+
+![Store list](/screenshots/store-list.png "Store list")
+
+![Store info](/screenshots/store-info.png "Store info")

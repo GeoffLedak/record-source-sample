@@ -16,4 +16,6 @@ http://geoffledak.com/recordsource/stores.json
 
 ### Screenshots
 
-![Store list](/screenshots/store-list-s.png "Store list") ![Store info](/screenshots/store-info-s.png "Store info")
+![Store List](/screenshots/store-list-s.png "Store List") ![Store Info](/screenshots/store-info-s.png "Store Info")
+![Navigation Drawer](/screenshots/navigation-drawer-s "Navigation Drawer") ![Map](/screenshots/map-s.png "Map")
+![Charts](/screenshots/charts-s.png "Charts")
